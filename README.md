@@ -2,7 +2,10 @@
 
 ## Converts GPX file upload to Encoded Polyline
 
-#### To view package go to: [gpx-to-encoded-polyline](https://www.npmjs.com/package/gpx-to-encoded-polyline)
+#### To view package on npmjs.com go to: [gpx-to-encoded-polyline](https://www.npmjs.com/package/gpx-to-encoded-polyline)
+
+#### To view github repo go to: [gpx-to-encoded-polyline repo](https://github.com/Patgoral/gpxToEncodedPolyline)
+
 
 #### This package is designed to easily and efficiently handle GPX file uploads from form data and converts it to an encoded polyline string.
 

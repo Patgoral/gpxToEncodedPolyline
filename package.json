@@ -1,6 +1,6 @@
 {
 	"name": "gpx-to-encoded-polyline",
-	"version": "1.3.10",
+	"version": "1.4.0",
 	"description": "A package to convert a gpx file to encoded polyline",
 	"main": "gpxToEncodedPolyline.js",
 	"scripts": {
