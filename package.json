@@ -1,0 +1,30 @@
+{
+	"name": "gpx-to-encoded-polyline",
+	"version": "1.3.10",
+	"description": "A package to convert a gpx file to encoded polyline",
+	"main": "gpxToEncodedPolyline.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Patgoral/gpxToEncodedPolyline.git"
+	},
+	"keywords": [
+		"gpx",
+		"encodedPolyline",
+		"react",
+		"javascript"
+	],
+	"author": "Pat Goral <patgoral@gmail.com> (https://patgoral.com/)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Patgoral/gpxToEncodedPolyline/issues"
+	},
+	"homepage": "https://github.com/Patgoral/gpxToEncodedPolyline#readme",
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"polyline": "^0.2.0",
+		"sax": "^1.2.4"
+	}
+}
