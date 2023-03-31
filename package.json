@@ -25,7 +25,6 @@
 	"dependencies": {
 		"@mapbox/polyline": "^1.1.1",
 		"fs": "^0.0.1-security",
-		"polyline": "^0.2.0",
 		"sax": "^1.2.4"
 	}
 }

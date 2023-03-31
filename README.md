@@ -8,7 +8,7 @@
 
 
 #### This package is designed to easily and efficiently handle GPX file uploads from form data and converts it to an encoded polyline string.
-
+<br>
 <table>
 <tr>
 <td>
@@ -20,7 +20,7 @@ GPX files are extremely dense and inefficient.  This package handles parsing the
 
 #### This package utilizes [@mapbox/polyline](https://www.npmjs.com/package/@mapbox/polyline)  and [sax](https://www.npmjs.com/package/sax) dependencies.
 
-<br><br>
+<br>
 
 
 ## Getting Started:
