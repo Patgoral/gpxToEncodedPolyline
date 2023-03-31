@@ -17,6 +17,7 @@ GPX files are extremely dense and inefficient.  This package handles parsing the
 </tr>
 </table>
 <br><br>
+
 #### This package utilizes [@mapbox/polyline](https://www.npmjs.com/package/@mapbox/polyline)  and [sax](https://www.npmjs.com/package/sax) dependencies.
 
 ## Getting Started:
