@@ -16,22 +16,17 @@ GPX files are extremely dense and inefficient.  This package handles parsing the
 </td>
 </tr>
 </table>
+<br><br>
+#### This package utilizes [@mapbox/polyline](https://www.npmjs.com/package/@mapbox/polyline)  and [sax](https://www.npmjs.com/package/sax) dependencies.
 
 ## Getting Started:
 
-<table>
-<tr>
-<td>
-  To install, use npm i gpx-to-encoded-polyline
-</td>
-</tr>
-</table>
-<br>
+
 <table>
 <tr>
 <td>
 There are two functions you can use in this package:
-<br>
+<br><br>
 - gpxToEncodedPolyline accepts an uploaded GPX file as an object and returns an encoded polyline.
 <br><br>
 - gpxFileToEncodedPolyline accepts a GPX filepath and returns an encoded polyline.

@@ -1,6 +1,7 @@
 const fs = require('fs');
 const sax = require('sax');
-const polyline = require('polyline');
+const polyline = require('@mapbox/polyline');
+const gpxTest = 'Fried_Clay_200k_2023.gpx'
 
 function gpxToEncodedPolyline(files) {
     const polylines = [];
@@ -45,6 +46,5 @@ function gpxFileToEncodedPolyline(filePath) {
   
     return polyline.encode(points);
   }
-
 
   module.exports = { gpxToEncodedPolyline, gpxFileToEncodedPolyline };
